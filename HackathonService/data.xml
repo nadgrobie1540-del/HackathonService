@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+	<Object TypeId="1">
+		<Name>Торговый центр "Европа"</Name>
+		<Address>ул. Ленина, 15</Address>
+		<Attribute Name="floorCount">5</Attribute>
+		<Attribute Name="area">2500</Attribute>
+		<Attribute Name="hasParking">true</Attribute>
+	</Object>
+	<Object TypeId="1">
+		<Name>Жилой комплекс "Солнечный"</Name>
+		<Address>пр. Мира, 42</Address>
+		<Attribute Name="floorCount">12</Attribute>
+		<Attribute Name="area">8500</Attribute>
+		<Attribute Name="hasParking">false</Attribute>
+	</Object>
+</Objects>
